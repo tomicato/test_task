@@ -1,3 +1,23 @@
+<p>
+<h1>Тестовое Задание</h1>
+
+
+Yii:
+Добавить закрытый авторизацией раздел
+
+Сделать импорт из CSV в таблицу element
+
+Поля CSV:
+Наименование
+Категория 1 / Категория 2 / Категория 3
+Артикул
+Описание
+
+Артикул является уникальным для элементов
+<hr>
+
+</p>
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
